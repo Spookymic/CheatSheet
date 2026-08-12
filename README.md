@@ -26,15 +26,28 @@ Collection de fiches mémo (cheatsheets) en français, couvrant les outils et te
 | 16 | Git            | [Cheatsheet_Git.md](./Cheatsheet_Git.md)                     |
 | 17 | Microsoft 365  | [Cheatsheet_Microsoft_365.md](./Cheatsheet_Microsoft_365.md) |
 | 18 | SNMP           | [Cheatsheet_SNMP.md](./Cheatsheet_SNMP.md)                   |
+| 19 | Kubernetes     | [Cheatsheet_Kubernetes.md](./Cheatsheet_Kubernetes.md)       |
+| 20 | Ansible        | [Cheatsheet_Ansible.md](./Cheatsheet_Ansible.md)             |
+| 21 | Terraform      | [Cheatsheet_Terraform.md](./Cheatsheet_Terraform.md)         |
+| 22 | Proxmox        | [Cheatsheet_Proxmox.md](./Cheatsheet_Proxmox.md)             |
+| 23 | Windows Svr/AD | [Cheatsheet_Windows_Server_AD.md](./Cheatsheet_Windows_Server_AD.md) |
+| 24 | Nginx / Apache | [Cheatsheet_Nginx_Apache.md](./Cheatsheet_Nginx_Apache.md)   |
+| 25 | MySQL / Postgr | [Cheatsheet_MySQL_PostgreSQL.md](./Cheatsheet_MySQL_PostgreSQL.md) |
+| 26 | Wireshark      | [Cheatsheet_Wireshark.md](./Cheatsheet_Wireshark.md)         |
+| 27 | Zabbix         | [Cheatsheet_Zabbix.md](./Cheatsheet_Zabbix.md)               |
+| 28 | Firewall/pfSnse| [Cheatsheet_Firewall_pfSense.md](./Cheatsheet_Firewall_pfSense.md) |
 
 ## Contenu par catégorie
 
 - **Éditeur** : Vi/Vim
 - **Systèmes** : Linux, Windows, PowerShell, Shell, Bash, Zsh
-- **Conteneurisation** : Docker, Docker Swarm
+- **Conteneurisation** : Docker, Docker Swarm, Kubernetes
+- **Automatisation / IaC** : Ansible, Terraform
+- **Virtualisation** : Proxmox
 - **Bureautique** : Excel, Word, PowerPoint
 - **Cloud / Collaboration** : Microsoft 365
-- **Réseau** : Cisco (switch), Réseau, SNMP
+- **Réseau** : Cisco (switch), Réseau, SNMP, Wireshark, Firewall/pfSense
+- **Serveurs** : Nginx/Apache, MySQL/PostgreSQL, Windows Server/Active Directory, Zabbix
 - **Versioning** : Git
 - **IA** : Prompt IA
 
