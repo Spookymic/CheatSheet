@@ -36,10 +36,12 @@ Collection de fiches mémo (cheatsheets) en français, couvrant les outils et te
 | 26 | Wireshark      | [Cheatsheet_Wireshark.md](./Cheatsheet_Wireshark.md)         |
 | 27 | Zabbix         | [Cheatsheet_Zabbix.md](./Cheatsheet_Zabbix.md)               |
 | 28 | Firewall/pfSnse| [Cheatsheet_Firewall_pfSense.md](./Cheatsheet_Firewall_pfSense.md) |
+| 29 | tmux           | [Cheatsheet_tmux.md](./Cheatsheet_tmux.md)                   |
 
 ## Contenu par catégorie
 
 - **Éditeur** : Vi/Vim
+- **Terminal / multiplexeur** : tmux
 - **Systèmes** : Linux, Windows, PowerShell, Shell, Bash, Zsh
 - **Conteneurisation** : Docker, Docker Swarm, Kubernetes
 - **Automatisation / IaC** : Ansible, Terraform
@@ -64,3 +66,4 @@ Les fiches suivantes contiennent une section dédiée à la personnalisation via
 - **Zsh** → `~/.zshrc` (options, prompt, complétion, oh-my-zsh)
 - **Shell** → où placer chaque type de configuration (login vs interactif)
 - **PowerShell** → `$PROFILE` (alias, fonctions, prompt, PSReadLine)
+- **tmux** → `~/.tmux.conf` (préfixe, raccourcis, barre de statut, plugins via TPM)
