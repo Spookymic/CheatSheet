@@ -37,12 +37,14 @@ Collection de fiches mémo (cheatsheets) en français, couvrant les outils et te
 | 27 | Zabbix         | [Cheatsheet_Zabbix.md](./Cheatsheet_Zabbix.md)               |
 | 28 | Firewall/pfSnse| [Cheatsheet_Firewall_pfSense.md](./Cheatsheet_Firewall_pfSense.md) |
 | 29 | tmux           | [Cheatsheet_tmux.md](./Cheatsheet_tmux.md)                   |
+| 30 | jq             | [Cheatsheet_jq.md](./Cheatsheet_jq.md)                       |
 
 ## Contenu par catégorie
 
 - **Éditeur** : Vi/Vim
 - **Terminal / multiplexeur** : tmux
 - **Systèmes** : Linux, Windows, PowerShell, Shell, Bash, Zsh
+- **Traitement de données** : jq (JSON)
 - **Conteneurisation** : Docker, Docker Swarm, Kubernetes
 - **Automatisation / IaC** : Ansible, Terraform
 - **Virtualisation** : Proxmox
