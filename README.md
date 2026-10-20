@@ -1,5 +1,3 @@
-rr
-
 # CheatSheet
 
 Collection de fiches mémo (cheatsheets) en français, couvrant les outils et technologies de développement, de système et de réseau.
